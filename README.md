@@ -1,2 +1,2 @@
-# Project26
-red velvet cake
+# Class26Project
+git bash cooking recipe
